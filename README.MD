@@ -53,5 +53,7 @@ La carte SIM n'est pas utilisable pour recevoir des appels par exemple
 Prix de l'appareil
 
 
+test
+
 
 
