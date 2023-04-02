@@ -17,65 +17,50 @@ Et bien d'autres cas d'usage
 
 On trouve généralement dans sur internet des sites proposant principalement la possibilité d'envoyer en masse des sms, mais plus rarement celle d'en recevoir, et encore moins d'avoir le choix d'envoyer et d'en recevoir sur son téléphone par le biais de son ordinateur
 
-![Image](http://i.imgur.com/sqgvTpf.png)
+<p align="center"><img style="float:center" src="http://i.imgur.com/sqgvTpf.png"  width="300px"/></p>
 
 Ces sites proposes souvent des abonnements sous forme de pack avec un quota limité de sms, le prix étant dégressif par rapport au nombre potentiel de sms que vous envoyer
 
-Inconvénients : 
-communication non bidirectionnelle
-le prix souvent prohibitif par rapport au prix de revient d'un envoi de sms
-vous n'êtes pas maître des données que vous envoyer
+|  Avantages | Inconvénients  |
+| - |  -|
+| - Solution déjà toute prête<br> - Gain de temps non négligeable|  - Communication non bidirectionnelle<br> - Prix souvent prohibitif par rapport au prix de revient d'un envoi de sms<br> - Vous n'êtes pas maître des données que vous envoyé|
 
-Avantage :
-Solution déjà toute prête, gain de temps non négligeable
+
 
 
 Logiciels de synchronisation sms
-Inconvénients :
-Vous n'avez pas la possibilité d'utiliser les sms en dehors du cadre d'une discussion
-Ofrre payante assez onéreuse
-SMS disponibles que sur les appareils sur lequel on a installé le programme, ou disponible que sur leur site dédié
-Données stockées sur un serveur distant qui n'est pas le vôtre
 
-Avantage :
-Mise en place rapide sur les différentes plateformes disponible
-Les SMS sont répliqués sur tous vos appareils
+|  Avantages | Inconvénients  |
+| - |  -|
+|  - Mise en place rapide sur les différentes plateformes disponibles <br>- Les SMS sont répliqués sur tous vos appareils|- pas la possibilité d'utiliser les sms en dehors du cadre d'une discussion<br>- Offre payante assez onéreuse<br>- SMS disponibles que sur les appareils sur lequel on a installé le programme, ou disponible que sur leur site dédié<br>- Données stockées sur un serveur distant qui n'est pas le vôtre| 
 
 
 Les modems ou dongle gsm/4g/5g
 
-Avantage : 
-Possibilité d'avoir internet
-Facilité de l'installation
+|  Avantages | Inconvénients  |
+| - |  -|
+|  - Possibilité d'avoir internet <br>- Facilité de l'installation|- Carte sim non utilisable pour l'appel<br>- Prix de l'appareil| 
 
-Inconviénent :
-La carte SIM n'est pas utilisable pour recevoir des appels par exemple
-Prix de l'appareil
 
 API HTTP
 
 https://github.com/NdoleStudio/httpsms
 
-Avantage :
-Mise en place assez rapide
-Open source
-Gratuit jusqu'à 200 envois/recéptions sms
-Intégration aisée dans d'autres projets
 
-Inconvénient :
-Reste toutefois une solution payante
-Nous n'avez pas la main sur les données stockées
-Utilisation du cloud Google
+|  Avantages | Inconvénients  |
+| - |  -|
+| Mise en place assez rapide<br> -Open source<br> -Gratuit jusqu'à 200 envois/réceptions sms<br> -Intégration aisée dans d'autres projets|  -Reste toutefois une solution payante <br> - Nous n'avez pas la main sur les données stockées <br> -Utilisation du cloud Google|
+
 
 
 https://raspisms.fr/
 
-Avantages :
-Entièrement gratuit et pas de limitations si vous hébergez vous même le serveur
-Nombreuses fonctionnalités telle que l'utilisation des webhook
-Vous contrôlez entièrement les données qui transitent au serveur
+|  Avantages | Inconvénients  |
+| - |  -|
+| - Entièrement gratuit et pas de limitations si vous hébergez vous même le serveur<br> - Nombreuses fonctionnalités telle que l'utilisation des webhook<br> - Vous contrôlez entièrement les données qui transitent au serveur|  - Solution assez lourde (certaines fonctions non utilisées par exemple)<br> - Ne peut s'installer que sur Linux à l'heure actuelle<br> - Nécessite une machine dédiée|
 
-Inconvénients :
-Solution assez lourde
-Ne peut s'installer que sur Linux à l'heure actuelle
-Nécessite une machine dédiée
+
+
+
+
+
