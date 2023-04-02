@@ -52,8 +52,30 @@ Inconviénent :
 La carte SIM n'est pas utilisable pour recevoir des appels par exemple
 Prix de l'appareil
 
+API HTTP
 
-test
+https://github.com/NdoleStudio/httpsms
+
+Avantage :
+Mise en place assez rapide
+Open source
+Gratuit jusqu'à 200 envois/recéptions sms
+Intégration aisée dans d'autres projets
+
+Inconvénient :
+Reste toutefois une solution payante
+Nous n'avez pas la main sur les données stockées
+Utilisation du cloud Google
 
 
+https://raspisms.fr/
 
+Avantages :
+Entièrement gratuit et pas de limitations si vous hébergez vous même le serveur
+Nombreuses fonctionnalités telle que l'utilisation des webhook
+Vous contrôlez entièrement les données qui transitent au serveur
+
+Inconvénients :
+Solution assez lourde
+Ne peut s'installer que sur Linux à l'heure actuelle
+Nécessite une machine dédiée
