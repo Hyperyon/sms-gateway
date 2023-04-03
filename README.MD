@@ -67,7 +67,7 @@ Même principe que ci-dessus, à la différence que le serveur peut être une ma
 
 |Avantages|Inconvénients|
 | - |  -|
-|- Entièrement gratuit et pas de limitations si vous hébergez vous même le serveur<br>- Nombreuses fonctionnalités telle que l'utilisation des webhook<br> - Vous contrôlez entièrement les données qui transitent au serveur<br><img width=450/>|- Solution assez lourde (certaines fonctions non utilisées par exemple)<br>- Ne peut s'installer que sur Linux à l'heure actuelle<br> - Nécessite une machine dédiée<br><img width=450/>|
+|- Entièrement gratuit et pas de limitations si vous hébergez vous même le serveur<br>- Nombreuses fonctionnalités telle que l'utilisation des webhook<br> - Vous contrôlez entièrement les données qui transitent au serveur<br><img width=450/>|- Solution assez lourde (certaines fonctions non utilisées par exemple)<br>- Partie serveur ne peut s'installer que sur Linux à l'heure actuelle<br> - Nécessite une machine dédiée<br><img width=450/>|
 
 
 
