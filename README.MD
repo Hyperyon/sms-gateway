@@ -70,6 +70,17 @@ Même principe que ci-dessus, à la différence que le serveur peut être une ma
 |- Entièrement gratuit et pas de limitations si vous hébergez vous même le serveur<br>- Nombreuses fonctionnalités telle que l'utilisation des webhook<br> - Vous contrôlez entièrement les données qui transitent au serveur<br><img width=450/>|- Solution assez lourde (certaines fonctions non utilisées par exemple)<br>- Partie serveur ne peut s'installer que sur Linux à l'heure actuelle<br> - Nécessite une machine dédiée<br><img width=450/>|
 
 
+#### API HTTP dédié multiplateforme
+
+Même principe que ci-dessus mais cette fois-ci le côté serveur peut être installé sur n'importe quelle machine avec Python dessus
+
+J'utilise deux projets déjà existants
+
+La partie client reprend le travail de ce repo https://github.com/juancresc/SMSHub
+
+La partie serveur est une modification de cette version de ce script : https://gist.github.com/hawkins/36b7d781d8fa5277d4cb29b6906abe57
+
+Les deux parties réunies nous donnent le nouveau repo que j'ai crée : https://github.com/Hyperyon/sms
 
 
 
